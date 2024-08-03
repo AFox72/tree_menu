@@ -1,2 +1,2 @@
-admin login = admin
+admin login = admin |
 admin password = admin
